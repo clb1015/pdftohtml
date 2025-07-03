@@ -1,0 +1,5 @@
+{
+  "name": "PDF to HTML Converter",
+  "description": "An application that uses AI to convert the content of a PDF file into a structured HTML document. Upload a PDF, and the app will extract its text and use the Gemini API to generate a clean HTML version.",
+  "requestFramePermissions": []
+}
